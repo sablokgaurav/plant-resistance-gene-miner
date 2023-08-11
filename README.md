@@ -8,7 +8,8 @@ Github:https://github.com/sablokgaurav \
 Linkedin: https://www.linkedin.com/in/sablokgaurav/ 
 
 ```python
-# to use simply use the id from the plant resistance gene database : http://www.prgdb.org/prgdb/ with the PRGDB, just the number
+# to use simply use the id from the plant resistance gene database \
+         : http://www.prgdb.org/prgdb/ with the PRGDB, just the number
 mineResistanceGenes(141)
 '4689222'
 ```
