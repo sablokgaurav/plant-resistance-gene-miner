@@ -7,7 +7,7 @@ I coded this plant resistance gene miner which uses a regular expression plus a 
 mineResistanceGenes(141)
 '4689222'
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
